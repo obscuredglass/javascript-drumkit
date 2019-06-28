@@ -16,3 +16,5 @@ L: Clang
 1. HTML
 2. CSS
 3. JavaScript
+
+![What the application looks like:](/assets/images/drumkitscreenshot.png)
